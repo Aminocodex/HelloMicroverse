@@ -1,7 +1,6 @@
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+    <br/>
 
   <h3><b>Hello Microverse</b></h3>
 
@@ -51,9 +50,12 @@ This is Hello Microverse project part of module 1
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Add HTML file**
+
+- **Add CSS file**
+
+- **Publish on GitHub**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,7 +65,7 @@ This is Hello Microverse project part of module 1
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+-- No deployed link yet
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +113,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+- N/A
 
 <!--
 Example command:
@@ -124,7 +126,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+- N/A
 
 <!--
 Example command:
@@ -136,7 +138,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
+- N/A
 
 <!--
 Example command:
@@ -148,7 +150,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
+- N/A
 
 <!--
 Example:
@@ -179,9 +181,12 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 Features coming soon
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- **Add HTML file**
+
+- **Add CSS file**
+
+- **Publish on GitHub**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -191,7 +196,6 @@ Features coming soon
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,7 +205,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project leave me a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,25 +215,12 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank the microverse team
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
